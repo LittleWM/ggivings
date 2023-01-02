@@ -9,14 +9,14 @@ const config = {
   title: 'G-Givings',
   tagline: 'Help those in need',
   url: 'https://LittleWM.github.io',
-  baseUrl: '/',
+  baseUrl: '/ggivings/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ggivings', // Usually your GitHub org/user name.
+  organizationName: 'LittleWM', // Usually your GitHub org/user name.
   projectName: 'ggivings', // Usually your repo name.
   trailingSlash: false,
 
