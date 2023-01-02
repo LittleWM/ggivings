@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkggivings=self.webpackChunkggivings||[]).push([[8559],{6904:g=>{g.exports=JSON.parse('{"permalink":"/ggivings/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
