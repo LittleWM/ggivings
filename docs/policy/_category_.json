@@ -1,0 +1,8 @@
+{
+  "label": "Policy",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Here are the policies of the organization."
+  }
+}
