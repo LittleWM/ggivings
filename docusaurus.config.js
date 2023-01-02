@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'G-Givings',
   tagline: 'Help those in need',
-  url: 'https://darrencheng0817.github.io/ggivings',
+  url: 'https://LittleWM.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
