@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Scholarship',
+    title: 'Unlock Potential',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Help gifted children to chase their dreams.
+        Break the cycle of poverty and empower individuals to reach their full potential.
       </>
     ),
   },
