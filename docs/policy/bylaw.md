@@ -5,7 +5,7 @@ sidebar_position: 2
 # Bylaw
 
 ## Article I - Name
-The name of this private operating foundation shall be [insert name], hereinafter referred to as "the Foundation".
+The name of this private operating foundation shall be GGivings, hereinafter referred to as "the Foundation".
 
 ## Article II - Purpose
 The purpose of the Foundation is to operate exclusively for charitable, scientific, and educational purposes. Specifically, the Foundation shall provide financial assistance to children for education and to individuals living in poverty for basic medical needs.
