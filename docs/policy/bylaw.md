@@ -36,3 +36,15 @@ In the event of the dissolution of the Foundation, all assets shall be distribut
 
 ## Article XI - Amendments
 These bylaws may be amended by a two-thirds (2/3) vote of the membership at a regular or special meeting, provided that notice of the proposed amendment has been given to the membership at least ten (10) days prior to the meeting.
+
+## Article XII - Non-US Activities
+The Foundation may engage in charitable, scientific, and educational activities outside of the United States, provided that such activities are consistent with the Foundation's purpose and are in compliance with applicable laws and regulations. The Foundation shall comply with all applicable regulations of the Internal Revenue Service (IRS) with respect to such activities.
+
+
+The Foundation shall keep accurate and complete records of all non-US activities, including but not limited to financial transactions, and shall provide supporting documentation and receipts for all costs associated with such activities. Such records and documentation shall be made available for review by the Board of Directors during quarterly meetings.
+
+
+In addition, the Foundation shall take reasonable steps to ensure that its non-US activities do not violate any applicable laws or regulations, including but not limited to anti-bribery and anti-corruption laws.
+
+
+Any Board member or other authorized representative of the Foundation who engages in non-US activities on behalf of the Foundation shall do so in accordance with the Foundation's policies and procedures, and shall report to the Board on such activities as requested.
