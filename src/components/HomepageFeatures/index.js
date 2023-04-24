@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Senior Care',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    img: require('@site/static/img/senior_care.png').default,
     description: (
       <>
         Help elders with low income to have basic medical care. 
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Equal Education',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    img: require('@site/static/img/education.png').default,
     description: (
       <>
         Ensure children from low income family to get educated. 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Unlock Potential',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    img: require('@site/static/img/potential.png').default,
     description: (
       <>
         Break the cycle of poverty and empower individuals to reach their full potential.
@@ -32,11 +32,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img} className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
