@@ -4,11 +4,13 @@ sidebar_position: 2
 
 # Bylaw
 
+Updated on 01/24/2023
+
 ## Article I - Name
 The name of this private operating foundation shall be GGivings, hereinafter referred to as "the Foundation".
 
 ## Article II - Purpose
-The purpose of the Foundation is to operate exclusively for charitable, scientific, and educational purposes. Specifically, the Foundation shall provide financial assistance to children for education and to individuals living in poverty for basic medical needs.
+The organization is organized exclusively for charitable, religious, educational, and scientific purposes under section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code. Specifically, the Foundation shall provide financial assistance to children for education and to individuals living in poverty for basic medical needs.
 
 ## Article III - Board of Directors
 The Board of Directors shall be the governing body of the Foundation, responsible for its overall management, direction, and control. The Board shall consist of at least three (3) members, including a President, Secretary, and Treasurer.
@@ -32,7 +34,7 @@ The Foundation shall not engage in any acts of self-dealing as defined in Sectio
 The Foundation shall prepare and file annual financial statements and reports with the relevant authorities, in accordance with the laws of the country or countries in which it operates.
 
 ## Article X - Dissolution
-In the event of the dissolution of the Foundation, all assets shall be distributed to another private operating foundation that has a similar charitable, scientific, and educational purpose, as determined by the Board of Directors and in accordance with the laws of the country or countries in which it operates.
+Upon the dissolution of this organization, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code, or shall be distributed to the federal government, or to a state or local government, for a public purpose.
 
 ## Article XI - Amendments
 These bylaws may be amended by a two-thirds (2/3) vote of the membership at a regular or special meeting, provided that notice of the proposed amendment has been given to the membership at least ten (10) days prior to the meeting.
