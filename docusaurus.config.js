@@ -9,7 +9,7 @@ const config = {
   title: 'GGivings',
   tagline: 'Help those in need',
   url: 'http://ggivings.com/',
-  baseUrl: '',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
