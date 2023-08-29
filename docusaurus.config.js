@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'GGivings',
   tagline: 'Help those in need',
-  url: 'https://LittleWM.github.io',
-  baseUrl: '/ggivings/',
+  url: 'http://ggivings.com/',
+  baseUrl: '',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
