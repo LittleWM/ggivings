@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>GGivings Blog</title>
-        <link>https://LittleWM.github.io/ggivings/blog</link>
+        <link>http://ggivings.com/blog</link>
         <description>GGivings Blog</description>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Update]]></title>
-            <link>https://LittleWM.github.io/ggivings/blog/first-update</link>
+            <link>http://ggivings.com/blog/first-update</link>
             <guid>first-update</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Building ...]]></description>
