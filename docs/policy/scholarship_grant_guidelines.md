@@ -18,6 +18,7 @@ Awardees will be nominated by the school, and their eligibility will be verified
 
 The criteria for eligibility include family poverty, where family income falls below the local average, risking the loss of educational opportunities, or other exceptional circumstances mutually agreed upon by the school and GGivings.
 
+Awardees must not appear on the OFAC List of Specially Designated Nationals and Blocked Persons for names of individuals and entities, and they must not demonstrate any terrorist tendencies. This is to further ensure that our support is not inadvertently directed towards individuals or entities involved in non-charitable or unlawful activities.
 
 Regular assessments will be conducted at the beginning of each academic semester, with exceptions considered for emergency support, such as unforeseen medical expenses or family crises, to ensure students can overcome unforeseen obstacles.
 
