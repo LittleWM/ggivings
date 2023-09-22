@@ -1,0 +1,60 @@
+    INFO: 2023-09-20 00:16:22,101:               log.py:   20: Logging to /Users/darren/Desktop/personal/ggivings/sites/docs/policy/mdpdf.log
+   DEBUG: 2023-09-20 00:16:22,101:               cli.py:  103: scholarship_grant_guidelines.md
+    INFO: 2023-09-20 00:16:22,101:         converter.py:   14: scholarship_grant_guidelines.md
+   DEBUG: 2023-09-20 00:16:22,104:      pdf_renderer.py:  470: printSegment: Scholarship Grant Guidelines
+   DEBUG: 2023-09-20 00:16:22,106:      pdf_renderer.py:  470: printSegment: Objective:
+   DEBUG: 2023-09-20 00:16:22,107:      pdf_renderer.py:  470: printSegment: In compliance with local laws, regulations, and relevant United States IRS regulations, the objective is to provide
+   DEBUG: 2023-09-20 00:16:22,109:      pdf_renderer.py:  470: printSegment: financial assistance to economically disadvantaged students during their compulsory education phase.
+   DEBUG: 2023-09-20 00:16:22,109:      pdf_renderer.py:  470: printSegment: Selection of Awardees:
+   DEBUG: 2023-09-20 00:16:22,109:      pdf_renderer.py:  470: printSegment: Non-Discrimination Principle:
+   DEBUG: 2023-09-20 00:16:22,110:      pdf_renderer.py:  470: printSegment: Awardees will be selected based on a non-discrimination principle, irrespective of their background, race, or gender.
+   DEBUG: 2023-09-20 00:16:22,110:      pdf_renderer.py:  470: printSegment: Nomination and Verification:
+   DEBUG: 2023-09-20 00:16:22,110:      pdf_renderer.py:  470: printSegment: Awardees will be nominated by the school, and their eligibility will be verified by GGivings.
+   DEBUG: 2023-09-20 00:16:22,111:      pdf_renderer.py:  470: printSegment: The criteria for eligibility include family poverty, where family income falls below the local average, risking the loss
+   DEBUG: 2023-09-20 00:16:22,111:      pdf_renderer.py:  470: printSegment: of educational opportunities, or other exceptional circumstances mutually agreed upon by the school and GGivings.
+   DEBUG: 2023-09-20 00:16:22,112:      pdf_renderer.py:  470: printSegment: Awardees must not appear on the OFAC List of Specially Designated Nationals and Blocked Persons for names of
+   DEBUG: 2023-09-20 00:16:22,112:      pdf_renderer.py:  470: printSegment: individuals and entities, and they must not demonstrate any terrorist tendencies. This is to further ensure that our
+   DEBUG: 2023-09-20 00:16:22,112:      pdf_renderer.py:  470: printSegment: support is not inadvertently directed towards individuals or entities involved in non-charitable or unlawful activities.
+   DEBUG: 2023-09-20 00:16:22,113:      pdf_renderer.py:  470: printSegment: Regular assessments will be conducted at the beginning of each academic semester, with exceptions considered for
+   DEBUG: 2023-09-20 00:16:22,113:      pdf_renderer.py:  470: printSegment: emergency support, such as unforeseen medical expenses or family crises, to ensure students can overcome
+   DEBUG: 2023-09-20 00:16:22,113:      pdf_renderer.py:  470: printSegment: unforeseen obstacles.
+   DEBUG: 2023-09-20 00:16:22,114:      pdf_renderer.py:  470: printSegment: Grant Disbursement and Records:
+   DEBUG: 2023-09-20 00:16:22,114:      pdf_renderer.py:  470: printSegment: Types of Support:
+   DEBUG: 2023-09-20 00:16:22,114:      pdf_renderer.py:  470: printSegment: Grants may include cash disbursements and educational materials. The cash component typically covers half of the
+   DEBUG: 2023-09-20 00:16:22,114:      pdf_renderer.py:  470: printSegment: semester
+   DEBUG: 2023-09-20 00:16:22,115:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2023-09-20 00:16:22,115:      pdf_renderer.py:  470: printSegment: s educational and meal expenses.
+   DEBUG: 2023-09-20 00:16:22,115:      pdf_renderer.py:  470: printSegment: Receipt Confirmation:
+   DEBUG: 2023-09-20 00:16:22,115:      pdf_renderer.py:  470: printSegment: GGivings disburses funds to partner schools in a lump sum based on the approved list. Once the school receives the
+   DEBUG: 2023-09-20 00:16:22,116:      pdf_renderer.py:  470: printSegment: funds, they provide GGivings with a receipt for the received payment.
+   DEBUG: 2023-09-20 00:16:22,116:      pdf_renderer.py:  470: printSegment: Scholarship disbursement
+   DEBUG: 2023-09-20 00:16:22,116:      pdf_renderer.py:  470: printSegment: Subsequent disbursement of cash and distribution of educational materials will be carried out by the school.
+   DEBUG: 2023-09-20 00:16:22,117:      pdf_renderer.py:  470: printSegment: Information and Record Submission:
+   DEBUG: 2023-09-20 00:16:22,117:      pdf_renderer.py:  470: printSegment: The school is required to provide GGivings with information on grant recipients, including names, grade levels, and
+   DEBUG: 2023-09-20 00:16:22,117:      pdf_renderer.py:  470: printSegment: home addresses. Additionally, academic performance records must be submitted at the end of each semester.
+   DEBUG: 2023-09-20 00:16:22,118:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2023-09-20 00:16:22,118:      pdf_renderer.py:  470: printSegment: Grant
+   DEBUG: 2023-09-20 00:16:22,118:      pdf_renderer.py:  470: printSegment: records will be kept confidential between the school and GGivings, in adherence to the principle of protecting the
+   DEBUG: 2023-09-20 00:16:22,119:      pdf_renderer.py:  470: printSegment: information of grant recipients. In special circumstances, disclosure to regulatory authorities may be considered.
+   DEBUG: 2023-09-20 00:16:22,119:      pdf_renderer.py:  470: printSegment: Anti-Fraud and Misuse Policy:
+   DEBUG: 2023-09-20 00:16:22,119:      pdf_renderer.py:  470: printSegment: Effective Verification:
+   DEBUG: 2023-09-20 00:16:22,120:      pdf_renderer.py:  470: printSegment: Schools must conduct thorough verification of the family circumstances of nominated students to ensure eligibility.
+   DEBUG: 2023-09-20 00:16:22,121:      pdf_renderer.py:  470: printSegment: Consequences of Fraud or Misuse:
+   DEBUG: 2023-09-20 00:16:22,121:      pdf_renderer.py:  470: printSegment: In cases of fraudulent documentation or misappropriation of funds, grant disbursement will be immediately
+   DEBUG: 2023-09-20 00:16:22,121:      pdf_renderer.py:  470: printSegment: terminated, and legal action may be pursued to recover misappropriated funds.
+   DEBUG: 2023-09-20 00:16:22,122:      pdf_renderer.py:  470: printSegment: These guidelines aim to establish a transparent and accountable scholarship program that adheres to legal and
+   DEBUG: 2023-09-20 00:16:22,122:      pdf_renderer.py:  470: printSegment: regulatory requirements, ensuring that funds are directed to students in genuine need while safeguarding their
+   DEBUG: 2023-09-20 00:16:22,122:      pdf_renderer.py:  470: printSegment: privacy and preventing fraud and misuse.
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 0, [1, 'Scholarship Grant Guidelines', 1, 68.0]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 1, [2, 'Objective:', 1, 106.0]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 2, [2, 'Selection of Awardees:', 1, 169.60000000000002]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 3, [3, 'Non-Discrimination Principle:', 1, 202.80000000000004]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 4, [3, 'Nomination and Verification:', 1, 249.60000000000002]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 5, [2, 'Grant Disbursement and Records:', 1, 410.8]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 6, [3, 'Types of Support:', 1, 444.0]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 7, [3, 'Receipt Confirmation:', 1, 502.79999999999995]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 8, [3, 'Scholarship disbursement', 1, 561.5999999999999]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 9, [3, 'Information and Record Submission:', 1, 608.3999999999999]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 10, [2, 'Anti-Fraud and Misuse Policy:', 1, 691.5999999999998]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 11, [3, 'Effective Verification:', 2, 72.0]
+   DEBUG: 2023-09-20 00:16:22,123:      pdf_renderer.py:   53: 12, [3, 'Consequences of Fraud or Misuse:', 2, 118.80000000000001]
